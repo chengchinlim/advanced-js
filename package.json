@@ -1,0 +1,15 @@
+{
+  "name": "advanced-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/event-loop.js",
+  "scripts": {
+    "dev": "node src/event-loop.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.15.4"
+  }
+}
