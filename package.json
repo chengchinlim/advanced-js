@@ -4,12 +4,12 @@
   "description": "",
   "main": "src/event-loop.js",
   "scripts": {
-    "dev": "node src/event-loop.js"
+    "dev": "node src/index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "4.15.4"
+    "express": "^4.17.1"
   }
 }
